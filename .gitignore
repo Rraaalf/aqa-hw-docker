@@ -1,0 +1,11 @@
+.github
+.gradle
+.idea
+data
+gradle
+src
+*.gradle
+Dockerfile
+gradlew
+*.bat
+*.png
